@@ -2,13 +2,24 @@
 A PCB prototype board is a temporary printed circuit board used for testing and validating electronic designs before mass production. It helps ensure functionality, detect errors, and make adjustments efficiently.
 
 
-# SITE
+# Site
 
 ```
 https://robu.in/
+https://www.ktron.in
 ```
 
 
+
+**Other_sites**
+
+```
+https://roboway.in
+https://sharvielectronics.com
+https://techtonics.in
+https://electronicspices.com
+https://kitsguru.com/
+```
 
 
 ### DB25 Port Connector Pinout Configuration
@@ -18,7 +29,9 @@ https://robu.in/
 | --- |  --- | ---  | --- |---  | --- |--- |
 | 1 | <img src="png/2-x-8-cm-S.jpg" width="80" height="40">  | 2*8 CM  | 8 | 2.54mm | Single-Sided |robu |
 | 2 | <img src="png/2-x-8-cm-S.jpg" width="80" height="40">  | 5*7 CM  | 28 | 2.54mm | Single-Sided |robu |
+| 2A | <img src="png/prototype-pcb-board-5x7-cm-4.jpg" width="80" height="40">  | 5*7 CM  | 14 | 2.54mm | Single-Sided |ktron |
 | 3 | <img src="png/6-x-8-cm-S.jpg" width="80" height="40">  | 6*8 CM  | 33 | 2.54mm | Single-Sided |robu |
+| 3A | <img src="png/prototype-pcb-board-6x4-inch-1.jpg" width="80" height="40">  | 6*4 CM  | 43 | 2.54mm | Single-Sided |ktron |
 | 4 | <img src="png/7-x-9-cm-S.jpg" width="80" height="40">  | 7*9 CM  | 41 | 2.54mm | Single-Sided |robu |
 | 5 | <img src="png/2-x-8-cm-S.jpg" width="80" height="40">  | 8*12 CM  | 60 | 2.54mm | Single-Sided |robu |
 | 6 | <img src="png/2-x-8-cm-S.jpg" width="80" height="40">  | 9*15 CM  | 80 | 2.54mm | Single-Sided |robu |
@@ -35,8 +48,23 @@ https://robu.in/
 | 2 | <img src="png/7-x-9-cm-S.jpg" width="80" height="40">  | 7*9 CM  | 50 | 2.54mm | Double-Sided |robu |
 | 3 | <img src="png/7-x-9-cm-S.jpg" width="80" height="40">  | 8*12 CM  | 107 | 2.54mm | Double-Sided |robu |
 | 4 | <img src="png/7-x-9-cm-S.jpg" width="80" height="40">  | 20*30 CM  | 443 | 2.54mm | Double-Sided |robu |
+| --- |  --- | Copper Clad Blank PCB   | --- |---  | --- |--- |
+| 1 | <img src="png/FR4-Copper-Clad-Plate-Laminate-Single-Side-PCB-8.jpg" width="80" height="40">  | 10*15 CM  | 62 |  | Single-Sided |robu |
+| 2 | <img src="png/FR4-Copper-Clad-Plate-Laminate-Single-Side-PCB-8.jpg" width="80" height="40">  | 15*20 CM  | 120 |  | Single-Sided |robu |
+| 3 | <img src="png/FR4-Copper-Clad-Plate-Laminate-Single-Side-PCB-8.jpg" width="80" height="40">  | 20*30 CM  | 221 |  | Single-Sided |robu |
+| 4 | <img src="png/copper-clad-blank-pcb-203x203mm.jpg" width="80" height="40">  | 20*20 CM  | 177 |  | Single-Sided |ktron |
 
 
+
+
+
+
+
+
+
+
+
+Copper Clad Blank PCB 8X8 Inch – Single Side – FR4
 
 
 
