@@ -52,19 +52,13 @@ https://kitsguru.com/
 | 1 | <img src="png/FR4-Copper-Clad-Plate-Laminate-Single-Side-PCB-8.jpg" width="80" height="40">  | 10*15 CM  | 62 |  | Single-Sided |robu |
 | 2 | <img src="png/FR4-Copper-Clad-Plate-Laminate-Single-Side-PCB-8.jpg" width="80" height="40">  | 15*20 CM  | 120 |  | Single-Sided |robu |
 | 3 | <img src="png/FR4-Copper-Clad-Plate-Laminate-Single-Side-PCB-8.jpg" width="80" height="40">  | 20*30 CM  | 221 |  | Single-Sided |robu |
-| 4 | <img src="png/copper-clad-blank-pcb-203x203mm.jpg" width="80" height="40">  | 20*20 CM  | 177 |  | Single-Sided |ktron |
+| 4 | <img src="png/copper-clad-blank-pcb-203x203mm.jpg" width="80" height="40">  | 20*20 CM 8X8 Inch   | 177 |  | Single-Sided |ktron |
+| --- |  --- | Local_Shop   | --- |---  | --- |--- |
+| 1 | <img src="png/F_and_B.jpg" width="80" height="40">  | 7*5 CM 3X2 Inch   | 15 |  | Single-Sided |Geevee |
+| 2 | <img src="png/F_and_B.jpg" width="80" height="40">  | 10*8 CM 4X3 Inch   | 30 |  | Single-Sided |Geevee |
+| 3 | <img src="png/F_and_B.jpg" width="80" height="40">  | 15*10 CM 6X4 Inch   | 55 |  | Single-Sided |Geevee |
 
 
-
-
-
-
-
-
-
-
-
-Copper Clad Blank PCB 8X8 Inch – Single Side – FR4
 
 
 
