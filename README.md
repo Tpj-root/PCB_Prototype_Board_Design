@@ -204,52 +204,52 @@ https://www.sunrom.com/c/header-strips?s_98%5B%5D=1.27
 | No | Code | Board\_Jpg | Description                                               | Price    | Pitch  | Type          | Site |
 | -- | ---- | ---------- | --------------------------------------------------------- | -------- | ------ | ------------- | ---- |
 | 1  | 7874 | <img src="png/4076.jpg" width="80" height="40">  | 2x9 18P Female Straight Double Row Header Strip           | Rs.11.30 | 2.54mm | Female Header | sunrom|
-| 2  | 7875 | —          | 2x10 20P Female Straight Double Row Header Strip          | Rs.11.60 | 2.54mm | Female Header | sunrom|
-| 3  | 7876 | —          | 2x12 24P Female Straight Double Row Header Strip          | Rs.12.10 | 2.54mm | Female Header | sunrom|
-| 4  | 7877 | —          | 2x20 40P Female Straight Double Row Header Strip          | Rs.23.10 | 2.54mm | Female Header | sunrom|
-| 5  | 7863 | —          | 1x12 Female Right Angle Single Row Header Strip           | Rs.23.10 | 2.54mm | Female Header | sunrom|
-| 6  | 7864 | —          | 1x15 Female Right Angle Single Row Header Strip           | Rs.29.40 | 2.54mm | Female Header | sunrom|
-| 7  | 7865 | —          | 1x16 Female Right Angle Single Row Header Strip           | Rs.30.90 | 2.54mm | Female Header | sunrom|
-| 8  | 7866 | —          | 1x20 Female Right Angle Single Row Header Strip           | Rs.37.10 | 2.54mm | Female Header | sunrom|
-| 9  | 7867 | —          | 2x2 4P Female Straight Double Row Header Strip            | Rs.5.00  | 2.54mm | Female Header | sunrom|
-| 10 | 7868 | —          | 2x3 6P Female Straight Double Row Header Strip            | Rs.5.80  | 2.54mm | Female Header | sunrom|
-| 11 | 7869 | —          | 2x4 8P Female Straight Double Row Header Strip            | Rs.6.60  | 2.54mm | Female Header | sunrom|
-| 12 | 7870 | —          | 2x5 10P Female Straight Double Row Header Strip           | Rs.7.50  | 2.54mm | Female Header | sunrom|
-| 13 | 7871 | —          | 2x6 12P Female Straight Double Row Header Strip           | Rs.8.30  | 2.54mm | Female Header | sunrom|
-| 14 | 7872 | —          | 2x7 14P Female Straight Double Row Header Strip           | Rs.9.90  | 2.54mm | Female Header | sunrom|
-| 15 | 7873 | —          | 2x8 16P Female Straight Double Row Header Strip           | Rs.10.80 | 2.54mm | Female Header | sunrom|
-| 16 | 7859 | —          | 1x5 Female Right Angle Single Row Header Strip            | Rs.12.40 | 2.54mm | Female Header | sunrom|
-| 17 | 7860 | —          | 1x6 Female Right Angle Single Row Header Strip            | Rs.13.10 | 2.54mm | Female Header | sunrom|
-| 18 | 7861 | —          | 1x8 Female Right Angle Single Row Header Strip            | Rs.15.40 | 2.54mm | Female Header | sunrom|
-| 19 | 7862 | —          | 1x10 Female Right Angle Single Row Header Strip           | Rs.19.30 | 2.54mm | Female Header | sunrom|
-| 20 | 7850 | —          | 1x10 Female Straight Single Row Header Strip              | Rs.6.60  | 2.54mm | Female Header | sunrom|
-| 21 | 7851 | —          | 1x12 Female Straight Single Row Header Strip              | Rs.7.60  | 2.54mm | Female Header | sunrom|
-| 22 | 7852 | —          | 1x14 Female Straight Single Row Header Strip              | Rs.8.30  | 2.54mm | Female Header | sunrom|
-| 23 | 7853 | —          | 1x15 Female Straight Single Row Header Strip              | Rs.9.00  | 2.54mm | Female Header | sunrom|
-| 24 | 7854 | —          | 1x16 Female Straight Single Row Header Strip              | Rs.9.60  | 2.54mm | Female Header | sunrom|
-| 25 | 7855 | —          | 1x20 Female Straight Single Row Header Strip              | Rs.10.40 | 2.54mm | Female Header | sunrom|
-| 26 | 7856 | —          | 1x2 Female Right Angle Single Row Header Strip            | Rs.10.80 | 2.54mm | Female Header | sunrom|
-| 27 | 7857 | —          | 1x3 Female Right Angle Single Row Header Strip            | Rs.11.00 | 2.54mm | Female Header | sunrom|
-| 28 | 7858 | —          | 1x4 Female Right Angle Single Row Header Strip            | Rs.11.60 | 2.54mm | Female Header | sunrom|
-| 29 | 7843 | —          | 1x2 Female Straight Single Row Header Strip               | Rs.3.50  | 2.54mm | Female Header | sunrom|
-| 30 | 7844 | —          | 1x3 Female Straight Single Row Header Strip               | Rs.3.90  | 2.54mm | Female Header | sunrom|
-| 31 | 7845 | —          | 1x4 Female Straight Single Row Header Strip               | Rs.4.10  | 2.54mm | Female Header | sunrom|
-| 32 | 7846 | —          | 1x5 Female Straight Single Row Header Strip               | Rs.4.60  | 2.54mm | Female Header | sunrom|
-| 33 | 7847 | —          | 1x6 Female Straight Single Row Header Strip               | Rs.5.00  | 2.54mm | Female Header | sunrom|
-| 34 | 7848 | —          | 1x7 Female Straight Single Row Header Strip               | Rs.5.40  | 2.54mm | Female Header | sunrom|
-| 35 | 7849 | —          | 1x8 Female Straight Single Row Header Strip               | Rs.5.80  | 2.54mm | Female Header | sunrom|
-| 36 | 7818 | <img src="png/4020.jpg" width="80" height="40">  | 40x1 Red Male Straight Header Strip Height 11mm           | Rs.14.25 | 2.54mm | Male Header   | sunrom|
-| 37 | 7819 | —          | 40x1 Green Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male Header   | sunrom|
-| 38 | 7820 | —          | 40x1 Blue Male Straight Header Strip Height 11mm          | Rs.14.25 | 2.54mm | Male Header   | sunrom|
-| 39 | 7821 | —          | 40x1 White Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male Header   | sunrom|
-| 40 | 7822 | —          | 40x1 Yellow Male Straight Header Strip Height 11mm        | Rs.14.25 | 2.54mm | Male Header   | sunrom|
+| 2  | 7875 | —          | 2x10 20P Female Straight Double Row Header Strip          | Rs.11.60 | 2.54mm | Female | sunrom|
+| 3  | 7876 | —          | 2x12 24P Female Straight Double Row Header Strip          | Rs.12.10 | 2.54mm | Female | sunrom|
+| 4  | 7877 | —          | 2x20 40P Female Straight Double Row Header Strip          | Rs.23.10 | 2.54mm | Female | sunrom|
+| 5  | 7863 | —          | 1x12 Female Right Angle Single Row Header Strip           | Rs.23.10 | 2.54mm | Female | sunrom|
+| 6  | 7864 | —          | 1x15 Female Right Angle Single Row Header Strip           | Rs.29.40 | 2.54mm | Female | sunrom|
+| 7  | 7865 | —          | 1x16 Female Right Angle Single Row Header Strip           | Rs.30.90 | 2.54mm | Female | sunrom|
+| 8  | 7866 | —          | 1x20 Female Right Angle Single Row Header Strip           | Rs.37.10 | 2.54mm | Female | sunrom|
+| 9  | 7867 | —          | 2x2 4P Female Straight Double Row Header Strip            | Rs.5.00  | 2.54mm | Female | sunrom|
+| 10 | 7868 | —          | 2x3 6P Female Straight Double Row Header Strip            | Rs.5.80  | 2.54mm | Female | sunrom|
+| 11 | 7869 | —          | 2x4 8P Female Straight Double Row Header Strip            | Rs.6.60  | 2.54mm | Female | sunrom|
+| 12 | 7870 | —          | 2x5 10P Female Straight Double Row Header Strip           | Rs.7.50  | 2.54mm | Female | sunrom|
+| 13 | 7871 | —          | 2x6 12P Female Straight Double Row Header Strip           | Rs.8.30  | 2.54mm | Female | sunrom|
+| 14 | 7872 | —          | 2x7 14P Female Straight Double Row Header Strip           | Rs.9.90  | 2.54mm | Female | sunrom|
+| 15 | 7873 | —          | 2x8 16P Female Straight Double Row Header Strip           | Rs.10.80 | 2.54mm | Female | sunrom|
+| 16 | 7859 | —          | 1x5 Female Right Angle Single Row Header Strip            | Rs.12.40 | 2.54mm | Female | sunrom|
+| 17 | 7860 | —          | 1x6 Female Right Angle Single Row Header Strip            | Rs.13.10 | 2.54mm | Female | sunrom|
+| 18 | 7861 | —          | 1x8 Female Right Angle Single Row Header Strip            | Rs.15.40 | 2.54mm | Female | sunrom|
+| 19 | 7862 | —          | 1x10 Female Right Angle Single Row Header Strip           | Rs.19.30 | 2.54mm | Female | sunrom|
+| 20 | 7850 | —          | 1x10 Female Straight Single Row Header Strip              | Rs.6.60  | 2.54mm | Female | sunrom|
+| 21 | 7851 | —          | 1x12 Female Straight Single Row Header Strip              | Rs.7.60  | 2.54mm | Female | sunrom|
+| 22 | 7852 | —          | 1x14 Female Straight Single Row Header Strip              | Rs.8.30  | 2.54mm | Female | sunrom|
+| 23 | 7853 | —          | 1x15 Female Straight Single Row Header Strip              | Rs.9.00  | 2.54mm | Female | sunrom|
+| 24 | 7854 | —          | 1x16 Female Straight Single Row Header Strip              | Rs.9.60  | 2.54mm | Female | sunrom|
+| 25 | 7855 | —          | 1x20 Female Straight Single Row Header Strip              | Rs.10.40 | 2.54mm | Female | sunrom|
+| 26 | 7856 | —          | 1x2 Female Right Angle Single Row Header Strip            | Rs.10.80 | 2.54mm | Female | sunrom|
+| 27 | 7857 | —          | 1x3 Female Right Angle Single Row Header Strip            | Rs.11.00 | 2.54mm | Female | sunrom|
+| 28 | 7858 | —          | 1x4 Female Right Angle Single Row Header Strip            | Rs.11.60 | 2.54mm | Female | sunrom|
+| 29 | 7843 | —          | 1x2 Female Straight Single Row Header Strip               | Rs.3.50  | 2.54mm | Female | sunrom|
+| 30 | 7844 | —          | 1x3 Female Straight Single Row Header Strip               | Rs.3.90  | 2.54mm | Female | sunrom|
+| 31 | 7845 | —          | 1x4 Female Straight Single Row Header Strip               | Rs.4.10  | 2.54mm | Female | sunrom|
+| 32 | 7846 | —          | 1x5 Female Straight Single Row Header Strip               | Rs.4.60  | 2.54mm | Female | sunrom|
+| 33 | 7847 | —          | 1x6 Female Straight Single Row Header Strip               | Rs.5.00  | 2.54mm | Female | sunrom|
+| 34 | 7848 | —          | 1x7 Female Straight Single Row Header Strip               | Rs.5.40  | 2.54mm | Female | sunrom|
+| 35 | 7849 | —          | 1x8 Female Straight Single Row Header Strip               | Rs.5.80  | 2.54mm | Female | sunrom|
+| 36 | 7818 | <img src="png/4020.jpg" width="80" height="40">  | 40x1 Red Male Straight Header Strip Height 11mm           | Rs.14.25 | 2.54mm | Male    | sunrom|
+| 37 | 7819 | —          | 40x1 Green Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male    | sunrom|
+| 38 | 7820 | —          | 40x1 Blue Male Straight Header Strip Height 11mm          | Rs.14.25 | 2.54mm | Male    | sunrom|
+| 39 | 7821 | —          | 40x1 White Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male    | sunrom|
+| 40 | 7822 | —          | 40x1 Yellow Male Straight Header Strip Height 11mm        | Rs.14.25 | 2.54mm | Male    | sunrom|
 | 41 | 7455 | —          | White 2-pin Shorting Jumper Shunt                         | Rs.1.85  | 2.54mm | Jumper        | sunrom|
 | 42 | 7456 | —          | Red 2-pin Shorting Jumper Shunt                           | Rs.1.85  | 2.54mm | Jumper        | sunrom|
 | 43 | 7457 | —          | Green 2-pin Shorting Jumper Shunt                         | Rs.1.85  | 2.54mm | Jumper        | sunrom|
 | 44 | 7458 | <img src="png/3656.jpg" width="80" height="40">  | Yellow 2-pin Shorting Jumper Shunt                        | Rs.1.85  | 2.54mm | Jumper        | sunrom|
-| 45 | 7197 | —          | 40x1 20mm Height Male Straight Header Strip (Gold Plated) | Rs.22.00 | 2.54mm | Male Header   | sunrom|
-| 46 | 6558 | <img src="png/2756.jpg" width="80" height="40">  | 40x2 SMD Male Straight Header Strip                       | Rs.40.00 | 2.54mm | Male Header   | sunrom|
-| 47 | 6561 | <img src="png/2759.jpg" width="80" height="40">  | 40x2 SMD Female Header Strip                              | Rs.60.00 | 2.54mm | Female Header | sunrom|
+| 45 | 7197 | —          | 40x1 20mm Height Male Straight Header Strip (Gold Plated) | Rs.22.00 | 2.54mm | Male    | sunrom|
+| 46 | 6558 | <img src="png/2756.jpg" width="80" height="40">  | 40x2 SMD Male Straight Header Strip                       | Rs.40.00 | 2.54mm | Male    | sunrom|
+| 47 | 6561 | <img src="png/2759.jpg" width="80" height="40">  | 40x2 SMD Female Header Strip                              | Rs.60.00 | 2.54mm | Female  | sunrom|
 | 48 | 6552 | —          | 40x1 Female Right Angle Header Strip                      | Rs.20.00 | 2.54mm | Female Header | sunrom|
 | 49  | 5469 | —          | 40x1 Male Right Angle Header Strip Reversed              | Rs.17.70        | 2.54mm | Male Header   | sunrom    |
 | 50 | 5357 | —          | 40x2 Male Straight Header Strip                          | Rs.12.00 | 2.54mm | Male Header   | sunrom|
