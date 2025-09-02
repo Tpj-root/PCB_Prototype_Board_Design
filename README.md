@@ -201,9 +201,6 @@ https://www.sunrom.com/c/header-strips?s_98%5B%5D=1.27
 ```
 
 
-
-<img src="png/2756.jpg" width="80" height="40">  
-
 | No | Code | Board\_Jpg | Description                                               | Price    | Pitch  | Type          | Site |
 | -- | ---- | ---------- | --------------------------------------------------------- | -------- | ------ | ------------- | ---- |
 | 1  | 7874 | <img src="png/4076.jpg" width="80" height="40">  | 2x9 18P Female Straight Double Row Header Strip           | Rs.11.30 | 2.54mm | Female Header | sunrom|
