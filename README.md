@@ -285,11 +285,6 @@ Here’s your data in a **clean tabular format** (like your old board table):
 ### B2B Board to Board (Pitch mm 0.8, 1.27)
 
 
-
-
- 
-Got it 👍 You want the **B2B connector list in a clean table** like your sample. Here’s the formatted version:
-
 | No | Code | Board\_Jpg | Description                                            | Price | Pitch  | Type   | Site |
 | -- | ---- | ---------- | ------------------------------------------------------ | ----- | ------ | ------ | ---- |
 | 1  | 7720 | <img src="png/3918.jpg" width="80" height="40">  | B2B 1.27 2×5P = 10P Male Board to Board Connector      | ₹43   | 1.27mm | Male   | sunrom|
