@@ -303,13 +303,13 @@ Here’s your data in a **clean tabular format** (like your old board table):
 | 14 | 7733 | —          | B2B 1.27 2×30P = 60P Female Board to Board Connector   | ₹85   | 1.27mm | Female | sunrom|
 | 15 | 7734 | —          | B2B 1.27 2×40P = 80P Female Board to Board Connector   | ₹110  | 1.27mm | Female | sunrom|
 | 16 | 7735 | —          | B2B 1.27 2×50P = 100P Female Board to Board Connector  | ₹146  | 1.27mm | Female | sunrom|
-| 17 | 7708 | —          | B2B 0.8mm 2×20P = 40P Male Board to Board Connector    | ₹164  | 0.8mm  | Male   | sunrom|
+| 17 | 7708 | <img src="png/3906.jpg" width="80" height="40"> | B2B 0.8mm 2×20P = 40P Male Board to Board Connector    | ₹164  | 0.8mm  | Male   | sunrom|
 | 18 | 7709 | —          | B2B 0.8mm 2×30P = 60P Male Board to Board Connector    | ₹170  | 0.8mm  | Male   | sunrom|
 | 19 | 7710 | —          | B2B 0.8mm 2×40P = 80P Male Board to Board Connector    | ₹207  | 0.8mm  | Male   | sunrom|
 | 20 | 7711 | —          | B2B 0.8mm 2×50P = 100P Male Board to Board Connector   | ₹243  | 0.8mm  | Male   | sunrom|
 | 21 | 7712 | —          | B2B 0.8mm 2×60P = 120P Male Board to Board Connector   | ₹335  | 0.8mm  | Male   | sunrom|
 | 22 | 7713 | —          | B2B 0.8mm 2×70P = 140P Male Board to Board Connector   | ₹402  | 0.8mm  | Male   | sunrom|
-| 23 | 7714 | —          | B2B 0.8mm 2×20P = 40P Female Board to Board Connector  | ₹164  | 0.8mm  | Female | sunrom|
+| 23 | 7714 | <img src="png/3912.jpg" width="80" height="40"> | B2B 0.8mm 2×20P = 40P Female Board to Board Connector  | ₹164  | 0.8mm  | Female | sunrom|
 | 24 | 7715 | —          | B2B 0.8mm 2×30P = 60P Female Board to Board Connector  | ₹170  | 0.8mm  | Female | sunrom|
 | 25 | 7716 | —          | B2B 0.8mm 2×40P = 80P Female Board to Board Connector  | ₹207  | 0.8mm  | Female | sunrom|
 | 26 | 7717 | —          | B2B 0.8mm 2×50P = 100P Female Board to Board Connector | ₹243  | 0.8mm  | Female | sunrom|
