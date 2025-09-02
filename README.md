@@ -62,6 +62,17 @@ https://robodo.in
 
 
 
+
+
+
+
+<img src="png/Study_0.png" width="600" height="400">
+
+
+
+
+
+
 ---
 
 * **FRC** → usually “Flat Ribbon Cable” (multi-wire cable, not a connector).
@@ -143,18 +154,36 @@ Here’s the comparison table 👇
 
 
   
+
+  
+
+* **FPC Cable (A-Type)** → Flexible Printed Circuit cable, used with ZIF/FPC connectors.
+* **Pitch** = distance between adjacent conductors.
+
+### From robu.in:
+
+1. **0.5 mm Pitch, 10-pin, 200 mm, A-Type**
+
+   * Very fine pitch.
+   * Used in compact devices (displays, cameras, etc.).
+   * Needs 0.5 mm pitch connector.
+
+2. **1.0 mm Pitch, 6-pin, 200 mm, A-Type**
+
+   * Larger pitch, easier to handle.
+   * Used in modules, adapters, boards with 1.0 mm FPC connectors.
+   * More robust than 0.5 mm pitch.
+
+### Key Difference
+
+* **0.5 mm pitch** = denser, smaller, more fragile.
+* **1.0 mm pitch** = bigger spacing, easier soldering, more durable.
+
+👉 Both are **FPC A-Type** (contacts on the same side).
+
   
   
-  
-  
-  
-  
-  
-  
- 
- 
- 
- 
+
  
  
  
