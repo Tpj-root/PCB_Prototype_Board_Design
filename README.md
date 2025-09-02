@@ -317,10 +317,18 @@ https://www.sunrom.com/c/header-strips?s_98%5B%5D=1.27
 
 ### EC43 Hollow Shaft Rotary Encoder 
 
+
+```
 https://www.youtube.com/shorts/RWE28umY18A
 
+https://robu.in/page/2/?s=Rotary+Encoder&post_type=product&dgwt_wcas=1
 
+https://robu.in/product/hongyan-hollow-encoder-ec25-20p/#tab-questions
+https://robu.in/product/hongyan-hollow-encoder-ec43-20p20/#tab-product_download_66939_tab
+https://robu.in/product/hongyan-hollow-encoder-ec56-15p30/#
+https://robu.in/product/hongyan-hollow-encoder-ec28a-c15h15p3/
 
+```
 
 
 
