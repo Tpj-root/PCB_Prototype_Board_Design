@@ -305,7 +305,7 @@ https://www.sunrom.com/c/header-strips?s_98%5B%5D=1.27
 | 19 | 7710 | —          | B2B 0.8mm 2×40P = 80P Male Board to Board Connector    | ₹207  | 0.8mm  | Male   | sunrom|
 | 20 | 7711 | —          | B2B 0.8mm 2×50P = 100P Male Board to Board Connector   | ₹243  | 0.8mm  | Male   | sunrom|
 | 21 | 7712 | —          | B2B 0.8mm 2×60P = 120P Male Board to Board Connector   | ₹335  | 0.8mm  | Male   | sunrom|
-| 22 | 7713 |  <img src="png/3912.jpg" width="80" height="40">| B2B 0.8mm 2×70P = 140P Male Board to Board Connector   | ₹402  | 0.8mm  | Male   | sunrom|
+| 22 | 7713 |  <img src="png/3911.jpg" width="80" height="40">| B2B 0.8mm 2×70P = 140P Male Board to Board Connector   | ₹402  | 0.8mm  | Male   | sunrom|
 | 23 | 7714 | <img src="png/3910.jpg" width="80" height="40"> | B2B 0.8mm 2×20P = 40P Female Board to Board Connector  | ₹164  | 0.8mm  | Female | sunrom|
 | 24 | 7715 | —          | B2B 0.8mm 2×30P = 60P Female Board to Board Connector  | ₹170  | 0.8mm  | Female | sunrom|
 | 25 | 7716 | —          | B2B 0.8mm 2×40P = 80P Female Board to Board Connector  | ₹207  | 0.8mm  | Female | sunrom|
