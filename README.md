@@ -270,7 +270,7 @@ Here’s your data in a **clean tabular format** (like your old board table):
  ### Machine Round Pins
 
 
- ````
+ ```
 
  2.54mm 40x1 Female Socket Strip, Machine Round Pins
  2.54mm 40x1 Male Header Strip, Machine Round Pins
