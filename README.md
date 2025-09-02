@@ -153,14 +153,22 @@ Here’s the comparison table 👇
 | 30| <img src="png/FFC_Connector_B.jpg" width="80" height="40">  | 6814 | Rs.38 | 30P 1mm Flip Lock FFC/FPC Bottom Contact Connector | Connector |sunrom |
 
 
-  
+## FRC 
 
-  
+```
+https://www.sunrom.com/c/frc-idc-flat-cable-box-header
+```
+
+
+
+
+https://robu.in/product-category/batteries/wires-and-cables/multi-color-project-cables/frc-cable/
+
 
 * **FPC Cable (A-Type)** → Flexible Printed Circuit cable, used with ZIF/FPC connectors.
 * **Pitch** = distance between adjacent conductors.
 
-### From robu.in:
+### From robu.in: 
 
 1. **0.5 mm Pitch, 10-pin, 200 mm, A-Type**
 
@@ -184,23 +192,135 @@ Here’s the comparison table 👇
   
   
 
+### Header Strips (1.27mm, 2mm, 2.54mm)
+
+
+```
+https://www.sunrom.com/c/header-strips?s_98%5B%5D=1.27
+
+```
+
+
+
+Here’s your data in a **clean tabular format** (like your old board table):
+
+| No | Code | Board\_Jpg | Description                                               | Price    | Pitch  | Type          | Site |
+| -- | ---- | ---------- | --------------------------------------------------------- | -------- | ------ | ------------- | ---- |
+| 1  | 7874 | —          | 2x9 18P Female Straight Double Row Header Strip           | Rs.11.30 | 2.54mm | Female Header | sunrom|
+| 2  | 7875 | —          | 2x10 20P Female Straight Double Row Header Strip          | Rs.11.60 | 2.54mm | Female Header | sunrom|
+| 3  | 7876 | —          | 2x12 24P Female Straight Double Row Header Strip          | Rs.12.10 | 2.54mm | Female Header | sunrom|
+| 4  | 7877 | —          | 2x20 40P Female Straight Double Row Header Strip          | Rs.23.10 | 2.54mm | Female Header | sunrom|
+| 5  | 7863 | —          | 1x12 Female Right Angle Single Row Header Strip           | Rs.23.10 | 2.54mm | Female Header | sunrom|
+| 6  | 7864 | —          | 1x15 Female Right Angle Single Row Header Strip           | Rs.29.40 | 2.54mm | Female Header | sunrom|
+| 7  | 7865 | —          | 1x16 Female Right Angle Single Row Header Strip           | Rs.30.90 | 2.54mm | Female Header | sunrom|
+| 8  | 7866 | —          | 1x20 Female Right Angle Single Row Header Strip           | Rs.37.10 | 2.54mm | Female Header | sunrom|
+| 9  | 7867 | —          | 2x2 4P Female Straight Double Row Header Strip            | Rs.5.00  | 2.54mm | Female Header | sunrom|
+| 10 | 7868 | —          | 2x3 6P Female Straight Double Row Header Strip            | Rs.5.80  | 2.54mm | Female Header | sunrom|
+| 11 | 7869 | —          | 2x4 8P Female Straight Double Row Header Strip            | Rs.6.60  | 2.54mm | Female Header | sunrom|
+| 12 | 7870 | —          | 2x5 10P Female Straight Double Row Header Strip           | Rs.7.50  | 2.54mm | Female Header | sunrom|
+| 13 | 7871 | —          | 2x6 12P Female Straight Double Row Header Strip           | Rs.8.30  | 2.54mm | Female Header | sunrom|
+| 14 | 7872 | —          | 2x7 14P Female Straight Double Row Header Strip           | Rs.9.90  | 2.54mm | Female Header | sunrom|
+| 15 | 7873 | —          | 2x8 16P Female Straight Double Row Header Strip           | Rs.10.80 | 2.54mm | Female Header | sunrom|
+| 16 | 7859 | —          | 1x5 Female Right Angle Single Row Header Strip            | Rs.12.40 | 2.54mm | Female Header | sunrom|
+| 17 | 7860 | —          | 1x6 Female Right Angle Single Row Header Strip            | Rs.13.10 | 2.54mm | Female Header | sunrom|
+| 18 | 7861 | —          | 1x8 Female Right Angle Single Row Header Strip            | Rs.15.40 | 2.54mm | Female Header | sunrom|
+| 19 | 7862 | —          | 1x10 Female Right Angle Single Row Header Strip           | Rs.19.30 | 2.54mm | Female Header | sunrom|
+| 20 | 7850 | —          | 1x10 Female Straight Single Row Header Strip              | Rs.6.60  | 2.54mm | Female Header | sunrom|
+| 21 | 7851 | —          | 1x12 Female Straight Single Row Header Strip              | Rs.7.60  | 2.54mm | Female Header | sunrom|
+| 22 | 7852 | —          | 1x14 Female Straight Single Row Header Strip              | Rs.8.30  | 2.54mm | Female Header | sunrom|
+| 23 | 7853 | —          | 1x15 Female Straight Single Row Header Strip              | Rs.9.00  | 2.54mm | Female Header | sunrom|
+| 24 | 7854 | —          | 1x16 Female Straight Single Row Header Strip              | Rs.9.60  | 2.54mm | Female Header | sunrom|
+| 25 | 7855 | —          | 1x20 Female Straight Single Row Header Strip              | Rs.10.40 | 2.54mm | Female Header | sunrom|
+| 26 | 7856 | —          | 1x2 Female Right Angle Single Row Header Strip            | Rs.10.80 | 2.54mm | Female Header | sunrom|
+| 27 | 7857 | —          | 1x3 Female Right Angle Single Row Header Strip            | Rs.11.00 | 2.54mm | Female Header | sunrom|
+| 28 | 7858 | —          | 1x4 Female Right Angle Single Row Header Strip            | Rs.11.60 | 2.54mm | Female Header | sunrom|
+| 29 | 7843 | —          | 1x2 Female Straight Single Row Header Strip               | Rs.3.50  | 2.54mm | Female Header | sunrom|
+| 30 | 7844 | —          | 1x3 Female Straight Single Row Header Strip               | Rs.3.90  | 2.54mm | Female Header | sunrom|
+| 31 | 7845 | —          | 1x4 Female Straight Single Row Header Strip               | Rs.4.10  | 2.54mm | Female Header | sunrom|
+| 32 | 7846 | —          | 1x5 Female Straight Single Row Header Strip               | Rs.4.60  | 2.54mm | Female Header | sunrom|
+| 33 | 7847 | —          | 1x6 Female Straight Single Row Header Strip               | Rs.5.00  | 2.54mm | Female Header | sunrom|
+| 34 | 7848 | —          | 1x7 Female Straight Single Row Header Strip               | Rs.5.40  | 2.54mm | Female Header | sunrom|
+| 35 | 7849 | —          | 1x8 Female Straight Single Row Header Strip               | Rs.5.80  | 2.54mm | Female Header | sunrom|
+| 36 | 7818 | —          | 40x1 Red Male Straight Header Strip Height 11mm           | Rs.14.25 | 2.54mm | Male Header   | sunrom|
+| 37 | 7819 | —          | 40x1 Green Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male Header   | sunrom|
+| 38 | 7820 | —          | 40x1 Blue Male Straight Header Strip Height 11mm          | Rs.14.25 | 2.54mm | Male Header   | sunrom|
+| 39 | 7821 | —          | 40x1 White Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male Header   | sunrom|
+| 40 | 7822 | —          | 40x1 Yellow Male Straight Header Strip Height 11mm        | Rs.14.25 | 2.54mm | Male Header   | sunrom|
+| 41 | 7455 | —          | White 2-pin Shorting Jumper Shunt                         | Rs.1.85  | 2.54mm | Jumper        | sunrom|
+| 42 | 7456 | —          | Red 2-pin Shorting Jumper Shunt                           | Rs.1.85  | 2.54mm | Jumper        | sunrom|
+| 43 | 7457 | —          | Green 2-pin Shorting Jumper Shunt                         | Rs.1.85  | 2.54mm | Jumper        | sunrom|
+| 44 | 7458 | —          | Yellow 2-pin Shorting Jumper Shunt                        | Rs.1.85  | 2.54mm | Jumper        | sunrom|
+| 45 | 7197 | —          | 40x1 20mm Height Male Straight Header Strip (Gold Plated) | Rs.22.00 | 2.54mm | Male Header   | sunrom|
+| 46 | 6558 | —          | 40x2 SMD Male Straight Header Strip                       | Rs.40.00 | 2.54mm | Male Header   | sunrom|
+| 47 | 6561 | —          | 40x2 SMD Female Header Strip                              | Rs.60.00 | 2.54mm | Female Header | sunrom|
+| 48 | 6552 | —          | 40x1 Female Right Angle Header Strip                      | Rs.20.00 | 2.54mm | Female Header | sunrom|
+| 49  | 5469 | —          | 40x1 Male Right Angle Header Strip Reversed              | Rs.17.70        | 2.54mm | Male Header   | sunrom    |
+| 50 | 5357 | —          | 40x2 Male Straight Header Strip                          | Rs.12.00 | 2.54mm | Male Header   | sunrom|
+| 51 | 5358 | —          | 40x2 Female Straight Header Strip                        | Rs.17.70 | 2.54mm | Female Header | sunrom|
+| 52 | 4580 | —          | 40x1 Female Straight Header Strip                        | Rs.11.80 | 2.54mm | Female Header | sunrom|
+| 53 | 4395 | —          | 40x1 Male Right Angle Header Strip (Breakaway, 90° Bent) | Rs.10.03 | 2.54mm | Male Header   | sunrom|
+| 54  | 4364 | —          | 40x1 Female Socket Strip, Machine Round Pins             | Rs.35.40 | 2.54mm | Female Header |sunrom|
+| 55  | 4365 | —          | 40x1 Male Header Strip, Machine Round Pins               | Rs.80.00 | 2.54mm | Male Header   |sunrom|
+| 56  | 3039 | —          | 40x1 Male Straight Header Strip Height 11mm              | Rs.9.00  | 2.54mm | Male Header   |sunrom|
+| 57  | 3305 | —          | Black 2-pin Shorting Jumper Shunt                        | Rs.1.75  | 2.54mm | Jumper        |sunrom|
  
  
  
  
+ ### Machine Round Pins
+
+
+ ````
+
+ 2.54mm 40x1 Female Socket Strip, Machine Round Pins
+ 2.54mm 40x1 Male Header Strip, Machine Round Pins
+ https://www.sunrom.com/p/254mm-40x1-male-header-strip-machine-round-pins
+
+
+ https://www.youtube.com/shorts/qTf2UP2Q2E4?time_continue=58&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2F&source_ve_path=Mjg2NjY
+ 
+ ```
  
  
+### B2B Board to Board (Pitch mm 0.8, 1.27)
+
+
+
+
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Got it 👍 You want the **B2B connector list in a clean table** like your sample. Here’s the formatted version:
+
+| No | Code | Board\_Jpg | Description                                            | Price | Pitch  | Type   | Site |
+| -- | ---- | ---------- | ------------------------------------------------------ | ----- | ------ | ------ | ---- |
+| 1  | 7720 | <img src="png/3918.jpg" width="80" height="40">  | B2B 1.27 2×5P = 10P Male Board to Board Connector      | ₹43   | 1.27mm | Male   | sunrom|
+| 2  | 7721 | —          | B2B 1.27 2×10P = 20P Male Board to Board Connector     | ₹49   | 1.27mm | Male   | sunrom|
+| 3  | 7722 | —          | B2B 1.27 2×15P = 30P Male Board to Board Connector     | ₹61   | 1.27mm | Male   | sunrom|
+| 4  | 7723 | —          | B2B 1.27 2×20P = 40P Male Board to Board Connector     | ₹73   | 1.27mm | Male   | sunrom|
+| 5  | 7724 | —          | B2B 1.27 2×25P = 50P Male Board to Board Connector     | ₹85   | 1.27mm | Male   | sunrom|
+| 6  | 7725 | —          | B2B 1.27 2×30P = 60P Male Board to Board Connector     | ₹103  | 1.27mm | Male   | sunrom|
+| 7  | 7726 | —          | B2B 1.27 2×40P = 80P Male Board to Board Connector     | ₹134  | 1.27mm | Male   | sunrom|
+| 8  | 7727 | —          | B2B 1.27 2×50P = 100P Male Board to Board Connector    | ₹183  | 1.27mm | Male   | sunrom|
+| 9  | 7728 |  <img src="png/3926.jpg" width="80" height="40">  | B2B 1.27 2×5P = 10P Female Board to Board Connector    | ₹37   | 1.27mm | Female | sunrom|
+| 10 | 7729 | —          | B2B 1.27 2×10P = 20P Female Board to Board Connector   | ₹43   | 1.27mm | Female | sunrom|
+| 11 | 7730 | —          | B2B 1.27 2×15P = 30P Female Board to Board Connector   | ₹55   | 1.27mm | Female | sunrom|
+| 12 | 7731 | —          | B2B 1.27 2×20P = 40P Female Board to Board Connector   | ₹61   | 1.27mm | Female | sunrom|
+| 13 | 7732 | —          | B2B 1.27 2×25P = 50P Female Board to Board Connector   | ₹73   | 1.27mm | Female | sunrom|
+| 14 | 7733 | —          | B2B 1.27 2×30P = 60P Female Board to Board Connector   | ₹85   | 1.27mm | Female | sunrom|
+| 15 | 7734 | —          | B2B 1.27 2×40P = 80P Female Board to Board Connector   | ₹110  | 1.27mm | Female | sunrom|
+| 16 | 7735 | —          | B2B 1.27 2×50P = 100P Female Board to Board Connector  | ₹146  | 1.27mm | Female | sunrom|
+| 17 | 7708 | —          | B2B 0.8mm 2×20P = 40P Male Board to Board Connector    | ₹164  | 0.8mm  | Male   | sunrom|
+| 18 | 7709 | —          | B2B 0.8mm 2×30P = 60P Male Board to Board Connector    | ₹170  | 0.8mm  | Male   | sunrom|
+| 19 | 7710 | —          | B2B 0.8mm 2×40P = 80P Male Board to Board Connector    | ₹207  | 0.8mm  | Male   | sunrom|
+| 20 | 7711 | —          | B2B 0.8mm 2×50P = 100P Male Board to Board Connector   | ₹243  | 0.8mm  | Male   | sunrom|
+| 21 | 7712 | —          | B2B 0.8mm 2×60P = 120P Male Board to Board Connector   | ₹335  | 0.8mm  | Male   | sunrom|
+| 22 | 7713 | —          | B2B 0.8mm 2×70P = 140P Male Board to Board Connector   | ₹402  | 0.8mm  | Male   | sunrom|
+| 23 | 7714 | —          | B2B 0.8mm 2×20P = 40P Female Board to Board Connector  | ₹164  | 0.8mm  | Female | sunrom|
+| 24 | 7715 | —          | B2B 0.8mm 2×30P = 60P Female Board to Board Connector  | ₹170  | 0.8mm  | Female | sunrom|
+| 25 | 7716 | —          | B2B 0.8mm 2×40P = 80P Female Board to Board Connector  | ₹207  | 0.8mm  | Female | sunrom|
+| 26 | 7717 | —          | B2B 0.8mm 2×50P = 100P Female Board to Board Connector | ₹243  | 0.8mm  | Female | sunrom|
+| 27 | 7718 | —          | B2B 0.8mm 2×60P = 120P Female Board to Board Connector | ₹335  | 0.8mm  | Female | sunrom|
+| 28 | 7719 | —          | B2B 0.8mm 2×70P = 140P Female Board to Board Connector | ₹402  | 0.8mm  | Female | sunrom|
+
 
 
 
