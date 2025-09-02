@@ -202,11 +202,11 @@ https://www.sunrom.com/c/header-strips?s_98%5B%5D=1.27
 
 
 
-Here’s your data in a **clean tabular format** (like your old board table):
+<img src="png/2756.jpg" width="80" height="40">  
 
 | No | Code | Board\_Jpg | Description                                               | Price    | Pitch  | Type          | Site |
 | -- | ---- | ---------- | --------------------------------------------------------- | -------- | ------ | ------------- | ---- |
-| 1  | 7874 | —          | 2x9 18P Female Straight Double Row Header Strip           | Rs.11.30 | 2.54mm | Female Header | sunrom|
+| 1  | 7874 | <img src="png/4076.jpg" width="80" height="40">  | 2x9 18P Female Straight Double Row Header Strip           | Rs.11.30 | 2.54mm | Female Header | sunrom|
 | 2  | 7875 | —          | 2x10 20P Female Straight Double Row Header Strip          | Rs.11.60 | 2.54mm | Female Header | sunrom|
 | 3  | 7876 | —          | 2x12 24P Female Straight Double Row Header Strip          | Rs.12.10 | 2.54mm | Female Header | sunrom|
 | 4  | 7877 | —          | 2x20 40P Female Straight Double Row Header Strip          | Rs.23.10 | 2.54mm | Female Header | sunrom|
@@ -241,7 +241,7 @@ Here’s your data in a **clean tabular format** (like your old board table):
 | 33 | 7847 | —          | 1x6 Female Straight Single Row Header Strip               | Rs.5.00  | 2.54mm | Female Header | sunrom|
 | 34 | 7848 | —          | 1x7 Female Straight Single Row Header Strip               | Rs.5.40  | 2.54mm | Female Header | sunrom|
 | 35 | 7849 | —          | 1x8 Female Straight Single Row Header Strip               | Rs.5.80  | 2.54mm | Female Header | sunrom|
-| 36 | 7818 | —          | 40x1 Red Male Straight Header Strip Height 11mm           | Rs.14.25 | 2.54mm | Male Header   | sunrom|
+| 36 | 7818 | <img src="png/4020.jpg" width="80" height="40">  | 40x1 Red Male Straight Header Strip Height 11mm           | Rs.14.25 | 2.54mm | Male Header   | sunrom|
 | 37 | 7819 | —          | 40x1 Green Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male Header   | sunrom|
 | 38 | 7820 | —          | 40x1 Blue Male Straight Header Strip Height 11mm          | Rs.14.25 | 2.54mm | Male Header   | sunrom|
 | 39 | 7821 | —          | 40x1 White Male Straight Header Strip Height 11mm         | Rs.14.25 | 2.54mm | Male Header   | sunrom|
@@ -249,10 +249,10 @@ Here’s your data in a **clean tabular format** (like your old board table):
 | 41 | 7455 | —          | White 2-pin Shorting Jumper Shunt                         | Rs.1.85  | 2.54mm | Jumper        | sunrom|
 | 42 | 7456 | —          | Red 2-pin Shorting Jumper Shunt                           | Rs.1.85  | 2.54mm | Jumper        | sunrom|
 | 43 | 7457 | —          | Green 2-pin Shorting Jumper Shunt                         | Rs.1.85  | 2.54mm | Jumper        | sunrom|
-| 44 | 7458 | —          | Yellow 2-pin Shorting Jumper Shunt                        | Rs.1.85  | 2.54mm | Jumper        | sunrom|
+| 44 | 7458 | <img src="png/3656.jpg" width="80" height="40">  | Yellow 2-pin Shorting Jumper Shunt                        | Rs.1.85  | 2.54mm | Jumper        | sunrom|
 | 45 | 7197 | —          | 40x1 20mm Height Male Straight Header Strip (Gold Plated) | Rs.22.00 | 2.54mm | Male Header   | sunrom|
-| 46 | 6558 | —          | 40x2 SMD Male Straight Header Strip                       | Rs.40.00 | 2.54mm | Male Header   | sunrom|
-| 47 | 6561 | —          | 40x2 SMD Female Header Strip                              | Rs.60.00 | 2.54mm | Female Header | sunrom|
+| 46 | 6558 | <img src="png/2756.jpg" width="80" height="40">  | 40x2 SMD Male Straight Header Strip                       | Rs.40.00 | 2.54mm | Male Header   | sunrom|
+| 47 | 6561 | <img src="png/2759.jpg" width="80" height="40">  | 40x2 SMD Female Header Strip                              | Rs.60.00 | 2.54mm | Female Header | sunrom|
 | 48 | 6552 | —          | 40x1 Female Right Angle Header Strip                      | Rs.20.00 | 2.54mm | Female Header | sunrom|
 | 49  | 5469 | —          | 40x1 Male Right Angle Header Strip Reversed              | Rs.17.70        | 2.54mm | Male Header   | sunrom    |
 | 50 | 5357 | —          | 40x2 Male Straight Header Strip                          | Rs.12.00 | 2.54mm | Male Header   | sunrom|
