@@ -414,6 +414,9 @@ https://www.adafruit.com/product/4557
 
 ### Terminal Block Breakout Module for Raspberry Pi Pico - Screw Mount Version
 
+<img src="png/5095-05.jpg" width="180" height="140">
+
+
 ```
 https://www.adafruit.com/product/5095
 
