@@ -339,9 +339,72 @@ https://robu.in/product/hongyan-hollow-encoder-ec28a-c15h15p3/
 
 <img src="png/520-06.jpg" width="180" height="140">
 
+<img src="png/2183-02.jpg" width="180" height="140">
+
+<img src="png/2184-06.jpg" width="180" height="140">
+
 
 ```
 https://www.adafruit.com/product/520
 
 ```
 
+
+
+
+
+
+
+
+### Pogo Pin Probe Clip - 6 Pins with 2.54mm / 0.1" Pitch
+
+<img src="png/5433-05.jpg" width="180" height="140">
+
+
+```
+
+https://www.adafruit.com/product/5433
+```
+
+
+
+
+
+### Pogo Pin Probe Clip - 2x5 1.27mm Pitch SWD
+
+
+<img src="png/5434-05.jpg" width="180" height="140">
+
+
+```
+
+https://www.adafruit.com/product/5434
+```
+
+
+
+
+### Adafruit Swirly Aluminum Mounting Grid for 0.1" Spaced PCBs - 10x10
+
+
+<img src="png/5781-05.jpg" width="180" height="140">
+
+
+```
+https://www.adafruit.com/product/5781
+```
+
+
+
+### DIN Rail Mount Bracket for Raspberry Pi / BeagleBone / Arduino
+
+<img src="png/4557-01.jpg" width="180" height="140">
+
+
+<img src="png/4437-05.jpg width="180" height="140">
+
+
+```
+https://www.adafruit.com/product/4557
+
+```
