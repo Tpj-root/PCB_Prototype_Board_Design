@@ -427,10 +427,25 @@ https://www.adafruit.com/product/5095
 
 ### Adafruit Flex Perma-Proto - Half-sized Breadboard Flex-PCB
 
-<img src="png/1518-00.jpg" width="180" height="140">
+
 
 
 ```
 https://www.adafruit.com/product/1518
 
+```
+
+
+
+### DIN Rail RJ-45 To Terminal Block Adapter - Vertical Jack
+
+
+<img src="png/3798-07.jpg" width="180" height="140">
+
+<img src="png/3798-01.jpg" width="180" height="140">
+
+
+```
+
+https://www.adafruit.com/product/3798
 ```
