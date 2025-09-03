@@ -449,3 +449,16 @@ https://www.adafruit.com/product/1518
 
 https://www.adafruit.com/product/3798
 ```
+
+
+
+
+### Small PCB Test Points (100 pack) - Red
+
+<img src="png/3825-03.jpg" width="180" height="140">
+
+
+```
+https://www.adafruit.com/product/3825
+
+```
