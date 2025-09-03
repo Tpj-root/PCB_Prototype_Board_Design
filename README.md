@@ -409,3 +409,25 @@ https://www.adafruit.com/product/5781
 https://www.adafruit.com/product/4557
 
 ```
+
+
+
+### Terminal Block Breakout Module for Raspberry Pi Pico - Screw Mount Version
+
+```
+https://www.adafruit.com/product/5095
+
+```
+
+
+
+
+### Adafruit Flex Perma-Proto - Half-sized Breadboard Flex-PCB
+
+<img src="png/1518-00.jpg" width="180" height="140">
+
+
+```
+https://www.adafruit.com/product/1518
+
+```
