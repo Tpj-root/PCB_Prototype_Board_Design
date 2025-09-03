@@ -332,5 +332,16 @@ https://robu.in/product/hongyan-hollow-encoder-ec28a-c15h15p3/
 
 
 
+###  Blank SMT Storage Book 
 
+
+<img src="png/520-03.jpg" width="180" height="140">
+
+<img src="png/520-06.jpg" width="180" height="140">
+
+
+```
+https://www.adafruit.com/product/520
+
+```
 
