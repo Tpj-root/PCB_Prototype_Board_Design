@@ -11,6 +11,55 @@ https://github.com/search?q=Breakout+PCB&type=repositories&p=7
 
 
 
+BAsic_Leran
+
+```
+https://github.com/ruiqimao/keyboard-pcb-guide
+
+
+https://github.com/Alarm-Siren/arduino-kicad-library
+
+https://github.com/pms67/STRF-Kicad
+https://www.youtube.com/watch?v=14_jh3nLSsU
+```
+
+
+
+## Tools
+
+```
+https://github.com/yaqwsx/KiKit
+https://github.com/yaqwsx/jlcparts
+
+
+https://github.com/ncarandini/KiCad-RP-Pico
+https://github.com/pointhi/kicad-footprint-generator
+
+https://github.com/easyw/kicadStepUpMod
+
+
+https://github.com/NilujePerchut/kicad_scripts
+
+
+https://github.com/sparkfun/SparkFun-KiCad-Libraries
+
+
+
+https://github.com/sethhillbrand/kicad_templates
+
+
+https://github.com/lachlanA/eagle-to-kicad
+
+https://github.com/Tinkerforge/kicad-libraries
+
+
+
+https://github.com/jsreynaud/kicad-action-scripts
+https://github.com/mitxela/kicad-round-tracks
+```
+
+
+
 
 
 In KiCad 
